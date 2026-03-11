@@ -1,4 +1,4 @@
-# 🧠 AI Mental Health Risk Analyzer
+# 🧠 Mental Health Risk Analyzer
 
 A mobile-style web application that estimates mental health risk based on lifestyle, stress, and personal factors.  
 The app provides an interactive risk score, explainable insights, and personalized recommendations.
